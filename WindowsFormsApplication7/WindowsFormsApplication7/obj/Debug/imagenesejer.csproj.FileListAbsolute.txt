@@ -1,0 +1,17 @@
+E:\Proyectos C#\aylin\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+E:\Proyectos C#\aylin\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+E:\Proyectos C#\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\imagenesejer.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+E:\Proyectos C#\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+E:\Proyectos C#\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\imagenesejer.csproj.GenerateResource.Cache
+E:\Proyectos C#\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+E:\Proyectos C#\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\imagenesejer.csproj.AssemblyReference.cache
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\imagenesejer.csproj.GenerateResource.cache
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\imagenesejer.csproj.CoreCompileInputs.cache
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Carla\Desktop\aylin\aylin\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
